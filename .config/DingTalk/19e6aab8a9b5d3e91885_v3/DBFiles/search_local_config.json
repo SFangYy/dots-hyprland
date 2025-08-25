@@ -1,0 +1,6 @@
+{
+    "is_already_hit_enable_udf": true,
+    "new_udf_policy_hit_ut_key": "local_default_bucket_1024MB",
+    "local_enable_license_tokenize_opt": false,
+    "max_license_tokenize_length": 40
+}

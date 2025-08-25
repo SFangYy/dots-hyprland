@@ -1,0 +1,12 @@
+{
+	"install": {
+		"description": "版本：7.6.45-Release.5041701 日期：2025.04.21\n变更说明：\n1、极速模式聊天优化，修复若干问题\n2、上线新版本左侧导航栏、DING通知\n3、新增云打印功能\n4、修复AI助手相关问题\n5、若干其他体验优化、问题修复", 
+		"package": {
+			"url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/xc_dingtalk_update/linux_deb/Release/com.alibabainc.dingtalk_7.6.45.5041701_amd64.deb", 
+			"force_update": false, 
+			"version": "7.6.45-Release.5041701", 
+			"update_version": "7.6.45-Release.5041701", 
+			"md5": "1a9407adb5e72ab5646121dafc94d4df"
+		}
+	}
+}

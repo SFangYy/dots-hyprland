@@ -1,0 +1,151 @@
+[EDR Info]  2025/08/23:13:13:59 (electronicDebugRecordDlg) EDR Init Start
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "3930" "610" "900" "700"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "3930" "610" "900" "700"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "757" "449"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "757" "449"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "757" "449"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "757" "449"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "1344" "863"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "1344" "863"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "83" "354" "1140" "732"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "83" "354" "1140" "732"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "667" "908"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "667" "908"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "1252" "908"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "6" "46" "1252" "908"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiQtPrefEnv -show
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -show
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiQtPrefEnv -find "f"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -find "f"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "General.Appearance"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "General.Appearance"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiSetPrefEnv -scaleFactor "1.5"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiSetPrefEnv -scaleFactor "1.5"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : srcSetPreference -cfiletype \
+{Source files (*.v; *.vlg; *.vl; *.vr; *.vrh; *.sv; *.svh; *.ova; *.vhd; *.vhdl; *.psl; *.vu; *.e;*.c; *.cpp; *.cxx; *.cc; *.h; *.hpp; *.hxx; *.hh; *.tcl; *.tk; *.do; *.upf; *.cpf);;HDL files (*.v; *.vlg; *.vl; *.vr; *.vrh; *.sv; *.svh; *.ova; *.vhd; *.vhdl; *.psl; *.vu; *.e);;C/C++ files (*.c; *.cpp; *.cxx; *.cc; *.h; *.hpp; *.hxx; *.hh);;Tcl files (*.tcl; *.tk; *.do);;Power files (*.upf;*.cpf) }
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : srcSetPreference -cfiletype {Source files (*.v; *.vlg; *.vl; *.vr; *.vrh; *.sv; *.svh; *.ova; *.vhd; *.vhdl; *.psl; *.vu; *.e;*.c; *.cpp; *.cxx; *.cc; *.h; *.hpp; *.hxx; *.hh; *.tcl; *.tk; *.do; *.upf; *.cpf);;HDL files (*.v; *.vlg; *.vl; *.vr; *.vrh; *.sv; *.svh; *.ova; *.vhd; *.vhdl; *.psl; *.vu; *.e);;C/C++ files (*.c; *.cpp; *.cxx; *.cc; *.h; *.hpp; *.hxx; *.hh);;Tcl files (*.tcl; *.tk; *.do);;Power files (*.upf;*.cpf) }
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : srcSetPreference -profileTime off
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : srcSetPreference -profileTime off
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : simSetInteractiveFsdbFile inter.fsdb
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : simSetInteractiveFsdbFile inter.fsdb
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : simSetNoAppendOption on
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : simSetNoAppendOption on
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : simSetSvtbMode on
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : simSetSvtbMode on
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiQtPrefEnv -apply
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -apply
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiSetActWin -win $_OneSearch
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiSetActWin -win $_OneSearch
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "4" "31" "835" "605"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "4" "31" "835" "605"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiQtPrefEnv -cancel
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -cancel
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "4" "31" "851" "605"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "4" "31" "851" "605"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "4" "31" "787" "605"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "4" "31" "787" "605"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "3844" "31" "1272" "685"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "3844" "31" "1272" "685"
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiQtPrefEnv -show
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -show
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) origTclCmd : verdiQtPrefEnv -cancel
+[EDR Info]  2025/08/23:13:13:59 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -cancel
+[EDR Info]  2025/08/23:13:13:59 (electronicDebugRecordDlg) EDR Init End
+[EDR Info]  2025/08/23:13:13:59 (edrCommand) EDR auto_save is skipped.
+[EDR Info]  2025/08/23:13:14:00 (electronicDebugRecordDlg) Status code of request /api/get/edr_config : 
+[EDR Error]  2025/08/23:13:14:00 (electronicDebugRecordDlg) Error Message of request /api/get/edr_config: Connection refused
+[EDR Info]  2025/08/23:13:15:47 (electronicDebugRecordDlg) EDR Init Start
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiSetActWin -dock widgetDock_<Message>
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiSetActWin -dock widgetDock_<Message>
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "4" "31" "445" "605"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "4" "31" "445" "605"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "3844" "31" "1272" "685"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "3844" "31" "1272" "685"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -show
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -show
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "General.Appearance"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "General.Appearance"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiSetPrefEnv -scaleFactor "1.25"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiSetPrefEnv -scaleFactor "1.25"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -apply
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -apply
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiSetActWin -win $_OneSearch
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiSetActWin -win $_OneSearch
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "3845" "37" "1526" "822"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "3845" "37" "1526" "822"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -ok
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -ok
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -show
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -show
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : srcSetPreference -iconSize "large"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : srcSetPreference -iconSize "large"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -apply
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -apply
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Waveform"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Waveform"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "SystemC"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "SystemC"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "AMS Debug"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "AMS Debug"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Interactive Debug"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Interactive Debug"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Power Aware"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Power Aware"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Property"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Property"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Auto Source"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Auto Source"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Transaction Debug"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Transaction Debug"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "UVM/OVM/VMM Debug"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "UVM/OVM/VMM Debug"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Temporal Flow View"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Temporal Flow View"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Behavior Analysis"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Behavior Analysis"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "SmartLog"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "SmartLog"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Memory"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Memory"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "Register"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "Register"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -setCurPg "nCompare"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -setCurPg "nCompare"
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiQtPrefEnv -cancel
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiQtPrefEnv -cancel
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) origTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:15:47 (edrVerdi) replaceTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:15:47 (electronicDebugRecordDlg) EDR Init End
+[EDR Info]  2025/08/23:13:15:47 (edrCommand) EDR auto_save is skipped.
+[EDR Info]  2025/08/23:13:15:47 (electronicDebugRecordDlg) Status code of request /api/get/edr_config : 
+[EDR Error]  2025/08/23:13:15:47 (electronicDebugRecordDlg) Error Message of request /api/get/edr_config: Connection refused
+[EDR Info]  2025/08/23:13:32:50 (electronicDebugRecordDlg) EDR Init Start
+[EDR Info]  2025/08/23:13:32:50 (edrVerdi) origTclCmd : verdiSetActWin -dock widgetDock_<Message>
+[EDR Info]  2025/08/23:13:32:50 (edrVerdi) replaceTclCmd : verdiSetActWin -dock widgetDock_<Message>
+[EDR Info]  2025/08/23:13:32:50 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "439" "37" "389" "726"
+[EDR Info]  2025/08/23:13:32:50 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "439" "37" "389" "726"
+[EDR Info]  2025/08/23:13:32:50 (edrVerdi) origTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:32:50 (edrVerdi) replaceTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:32:50 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "439" "37" "389" "726"
+[EDR Info]  2025/08/23:13:32:50 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "439" "37" "389" "726"
+[EDR Info]  2025/08/23:13:32:50 (electronicDebugRecordDlg) EDR Init End
+[EDR Info]  2025/08/23:13:32:50 (edrCommand) EDR auto_save is skipped.
+[EDR Info]  2025/08/23:13:32:51 (electronicDebugRecordDlg) Status code of request /api/get/edr_config : 
+[EDR Error]  2025/08/23:13:32:51 (electronicDebugRecordDlg) Error Message of request /api/get/edr_config: Connection refused
+[EDR Info]  2025/08/23:13:35:36 (electronicDebugRecordDlg) EDR Init Start
+[EDR Info]  2025/08/23:13:35:36 (edrVerdi) origTclCmd : verdiSetActWin -dock widgetDock_<Message>
+[EDR Info]  2025/08/23:13:35:36 (edrVerdi) replaceTclCmd : verdiSetActWin -dock widgetDock_<Message>
+[EDR Info]  2025/08/23:13:35:36 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "836" "37" "388" "726"
+[EDR Info]  2025/08/23:13:35:36 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "836" "37" "388" "726"
+[EDR Info]  2025/08/23:13:35:36 (edrVerdi) origTclCmd : verdiWindowResize -win $_Verdi_1 "836" "37" "388" "726"
+[EDR Info]  2025/08/23:13:35:36 (edrVerdi) replaceTclCmd : verdiWindowResize -win $_Verdi_1 "836" "37" "388" "726"
+[EDR Info]  2025/08/23:13:35:36 (edrVerdi) origTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:35:36 (edrVerdi) replaceTclCmd : verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+[EDR Info]  2025/08/23:13:35:36 (electronicDebugRecordDlg) EDR Init End
+[EDR Info]  2025/08/23:13:35:36 (edrCommand) EDR auto_save is skipped.
+[EDR Info]  2025/08/23:13:35:36 (electronicDebugRecordDlg) Status code of request /api/get/edr_config : 
+[EDR Error]  2025/08/23:13:35:36 (electronicDebugRecordDlg) Error Message of request /api/get/edr_config: Connection refused

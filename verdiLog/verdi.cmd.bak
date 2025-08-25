@@ -1,0 +1,5 @@
+verdiSetActWin -dock widgetDock_<Message>
+verdiWindowResize -win $_Verdi_1 "439" "37" "389" "726"
+verdiSetActWin -dock widgetDock_MTB_SOURCE_TAB_1
+verdiWindowResize -win $_Verdi_1 "439" "37" "389" "726"
+debExit

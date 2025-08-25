@@ -1,0 +1,18 @@
+2025/08/22-20:22:16.872 dc082 Creating DB /home/sfangyy/.config/obsidian/WebStorage/2/IndexedDB/indexeddb.leveldb since it was missing.
+2025/08/22-20:22:16.873 dc082 Reusing MANIFEST /home/sfangyy/.config/obsidian/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/08/22-20:22:17.100 dc0f1 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/22-20:22:17.108 dc083 Level-0 table #5: started
+2025/08/22-20:22:17.109 dc083 Level-0 table #5: 5615 bytes OK
+2025/08/22-20:22:17.111 dc083 Delete type=0 #3
+2025/08/22-20:22:17.111 dc083 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/22-20:22:17.111 dc083 Level-0 table #7: started
+2025/08/22-20:22:17.111 dc083 Level-0 table #7: 769 bytes OK
+2025/08/22-20:22:17.113 dc083 Delete type=0 #4
+2025/08/22-20:22:17.113 dc083 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/22-20:22:17.113 dc083 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 413 : 0
+2025/08/22-20:22:17.113 dc083 Compacting 1@1 + 1@2 files
+2025/08/22-20:22:17.113 dc083 Generated table #8@1: 38 keys, 965 bytes
+2025/08/22-20:22:17.113 dc083 Compacted 1@1 + 1@2 files => 965 bytes
+2025/08/22-20:22:17.115 dc083 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/22-20:22:17.115 dc083 Delete type=2 #7
+2025/08/22-20:22:17.115 dc083 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 413 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

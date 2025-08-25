@@ -21,7 +21,19 @@ alias pamcan pacman
 alias ls 'eza --icons'
 alias clear "printf '\033[2J\033[3J\033[1;1H'"
 alias q 'qs -c ii'
-    
+alias z cd
+alias c clear
+alias vim nvim
+alias update 'sudo pacman -Syu'
+alias cdw 'cd ~/work'
+alias cdn 'cd ~/work/Notes'
+
+set -gx GEMINI_API_KEY AIzaSyDuSjzoFV16HO-pCrrgrpHgjK2ncRO5wPA
+#set -gx VCS_HOME "/home/sfangyy/work/9-dependency/synopsys/vcs/W-2024.09-SP1"
+#set -gx PATH "$VCS_HOME/bin" $PATH
+#set -gx VCS_ARCH_OVERRIDE linux
+
+set -gx EDA_HOME /home/sfangyy/work/9-dependency/EDAWorkbench
 
 # function fish_prompt
 #   set_color cyan; echo (pwd)

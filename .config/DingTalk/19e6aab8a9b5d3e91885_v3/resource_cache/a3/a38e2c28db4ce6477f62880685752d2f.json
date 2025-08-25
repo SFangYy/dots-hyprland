@@ -1,0 +1,193 @@
+[
+    {
+      "policy": [
+        {
+          "configure": {
+  
+          },
+          "downloader_name": "lwp",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        },
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "5000",
+            "http_downloader.enable_emas_http_dns": "1",
+            "http_downloader.rewrite_host": "down-sr.dingtalk.com"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 2,
+          "error_time_period_ms": 300000,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 600000
+        },
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "5000",
+            "http_downloader.enable_emas_http_dns": "1"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        },
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "15000",
+            "http_downloader.pre_resolve_host": "{\"dns.alidns.com:443\":\"223.5.5.5,2400:3200::1\"}",
+            "http_downloader.resolve_type": "DOH",
+            "http_downloader.resolve_value": "https://dns.alidns.com/dns-query"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        }
+      ],
+      "re": "https?:\\/\\/down\\.dingtalk\\.com\\/.+"
+    },
+    {
+      "policy": [
+        {
+          "configure": {
+  
+          },
+          "downloader_name": "lwp",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        },
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "5000",
+            "http_downloader.enable_emas_http_dns": "1"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        },
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "15000",
+            "http_downloader.pre_resolve_host": "{\"dns.alidns.com:443\":\"223.5.5.5,2400:3200::1\"}",
+            "http_downloader.resolve_type": "DOH",
+            "http_downloader.resolve_value": "https://dns.alidns.com/dns-query"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        }
+      ],
+      "re": "https?:\\/\\/(down-sr|down-pre)\\.dingtalk\\.com\\/.+"
+    },
+    {
+      "policy": [
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "5000",
+            "http_downloader.enable_emas_http_dns": "1"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        },
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "15000",
+            "http_downloader.pre_resolve_host": "{\"dns.alidns.com:443\":\"223.5.5.5,2400:3200::1\"}",
+            "http_downloader.resolve_type": "DOH",
+            "http_downloader.resolve_value": "https://dns.alidns.com/dns-query"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        }
+      ],
+      "re": "https?:\\/\\/(down-cdn|static)\\.dingtalk\\.com\\/.+"
+    },
+    {
+      "policy": [
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "5000",
+            "http_downloader.enable_emas_http_dns": "1"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        },
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "15000",
+            "http_downloader.pre_resolve_host": "{\"dns.alidns.com:443\":\"223.5.5.5,2400:3200::1\"}",
+            "http_downloader.resolve_type": "DOH",
+            "http_downloader.resolve_value": "https://dns.alidns.com/dns-query"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        }
+      ],
+      "re": "https?:\\/\\/.+\\.dingtalk\\.com\\/.+"
+    },
+    {
+      "policy": [
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "5000"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 5,
+          "error_time_period_ms": 300000,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 1801000
+        },
+        {
+          "configure": {
+            "http_downloader.connect_timeout": "15000",
+            "http_downloader.pre_resolve_host": "{\"dns.alidns.com:443\":\"223.5.5.5,2400:3200::1\"}",
+            "http_downloader.resolve_type": "DOH",
+            "http_downloader.resolve_value": "https://dns.alidns.com/dns-query"
+          },
+          "downloader_name": "http",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        }
+      ],
+      "re": "https?:\\/\\/.+"
+    },
+    {
+      "policy": [
+        {
+          "configure": {
+  
+          },
+          "downloader_name": "file",
+          "error_count_limit": 0,
+          "error_time_period_ms": 0,
+          "policy_name": "daily_2024.09.06",
+          "recover_time_period_ms": 0
+        }
+      ],
+      "re": "file:\\/\\/.+"
+    }
+  ]
