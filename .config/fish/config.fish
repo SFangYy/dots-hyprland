@@ -27,7 +27,9 @@ alias vim nvim
 alias update 'sudo pacman -Syu'
 alias cdw 'cd ~/work'
 alias cdn 'cd ~/work/Notes'
-
+alias tn 'tmux new -s'
+alias tl 'tmux list-sessions'
+alias ta 'tmux attach-session'
 set -gx GEMINI_API_KEY AIzaSyDuSjzoFV16HO-pCrrgrpHgjK2ncRO5wPA
 #set -gx VCS_HOME "/home/sfangyy/work/9-dependency/synopsys/vcs/W-2024.09-SP1"
 #set -gx PATH "$VCS_HOME/bin" $PATH

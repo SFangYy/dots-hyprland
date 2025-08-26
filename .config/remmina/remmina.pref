@@ -128,6 +128,7 @@ periodic_news_last_checksum=
 periodic_usage_stats_permitted=false
 info_uid_prefix=MTKRRXUFE71OCF
 disable_tip=true
+ssh_color_file=
 
 [remmina]
 name=

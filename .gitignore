@@ -11,6 +11,7 @@ __pycache__/
 .config/Code 
 .config/picker
 .config/quickshell/ii/.qmlls.ini
+.config/DingTalk
 .bash_history
 .bash_logout
 .bash_profile
@@ -64,4 +65,6 @@ Videos
 work
 Zotero
 迅雷下载
+.verdi_onesearch_history.log
+verdiLog
 高德打车行程单.pdf
