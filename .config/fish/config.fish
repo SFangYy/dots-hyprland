@@ -30,6 +30,8 @@ alias cdn 'cd ~/work/Notes'
 alias tn 'tmux new -s'
 alias tl 'tmux list-sessions'
 alias ta 'tmux attach-session'
+alias sk 'ssh songfangyuan@172.28.9.101'
+alias sf 'ssh sfangyy@192.168.41.122'
 set -gx GEMINI_API_KEY AIzaSyDuSjzoFV16HO-pCrrgrpHgjK2ncRO5wPA
 #set -gx VCS_HOME "/home/sfangyy/work/9-dependency/synopsys/vcs/W-2024.09-SP1"
 #set -gx PATH "$VCS_HOME/bin" $PATH
